@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!! I'm Priyanka Prabhakar 🦋✨<br><br>🎓 Fresher | Student at Vellore Institute Of Technology(Vellore)<br>🔹 Passionate about Full Stack Development<br>🔹 Proficient in Python, exploring modern web frameworks<br>🔹 Built impactful academic projects with strong problem-solving skills<br>🔹 Active in social speaking clubs, enhancing communication & leadership<br>🔹 Always eager to learn, collaborate, and innovate<br>💡 Let's Connect!<br><br>📬 Open to collaborations, tech discussions & opportunities!
+Hi!! I'm Priyanka Prabhakar 🦋✨<br><br>🎓 Final-Year | Student at Vellore Institute Of Technology(Vellore)<br>🔹 Passionate about Full Stack Development<br>🔹 Proficient in Python, exploring modern web frameworks<br>🔹 Built impactful academic projects with strong problem-solving skills<br>🔹 Active in social speaking clubs, enhancing communication & leadership<br>🔹 Always eager to learn, collaborate, and innovate<br>💡 Let's Connect!<br><br>📬 Open to collaborations, tech discussions & opportunities!
 
 
 ## 🌐 Socials:
